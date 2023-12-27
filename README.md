@@ -23,13 +23,10 @@ Model Optimization: Utilizing GridSearchCV for hyperparameter tuning to enhance 
 Documentation and Reporting: Comprehensive documentation of methodologies and insights in the Jupyter Notebook.
 Results and Conclusion
 
-The optimized Random Forest model achieved an accuracy of [percentage]%, indicating a high level of precision in breast cancer diagnosis.
+The optimized Random Forest model achieved an accuracy of 96%, indicating a high level of precision in breast cancer diagnosis.
 The project demonstrates the potential of machine learning in augmenting medical diagnostic processes.
 How to Run the Project
 
-Clone the repository: git clone [repository URL]
-Install required dependencies: pip install -r requirements.txt
-Open the Jupyter Notebook: jupyter notebook [notebook name].ipynb
 Future Scope
 
 Incorporating more diverse data to improve model robustness.
