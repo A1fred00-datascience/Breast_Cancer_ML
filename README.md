@@ -1,14 +1,14 @@
-Breast Cancer Diagnostic Analysis Using Machine Learning
+#Breast Cancer Diagnostic Analysis Using Machine Learning
 
-Project Overview
+##Project Overview
 
 This project focuses on developing a machine learning model to accurately diagnose breast cancer using a dataset of breast cancer patient records. The project involves data preprocessing, exploratory data analysis, feature engineering, model building, evaluation, and optimization.
 
-Dataset Description
+##Dataset Description
 
 The dataset used in this project consists of several features computed from digitized images of fine needle aspirate (FNA) of breast masses. Features include characteristics of cell nuclei present in the images. The objective is to classify the diagnosis as either benign or malignant.
 
-Technologies Used
+##Technologies Used
 
 Python
 Jupyter Notebook
@@ -27,7 +27,7 @@ The optimized Random Forest model achieved an accuracy of 96%, indicating a high
 The project demonstrates the potential of machine learning in augmenting medical diagnostic processes.
 How to Run the Project
 
-Future Scope
+##Future Scope
 
 Incorporating more diverse data to improve model robustness.
 Exploring advanced machine learning algorithms and deep learning for enhanced accuracy.
