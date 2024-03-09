@@ -9,7 +9,6 @@ This project focuses on developing a machine learning model to accurately diagno
 The dataset used in this project consists of several features computed from digitized images of fine needle aspirate (FNA) of breast masses. Features include characteristics of cell nuclei present in the images. The objective is to classify the diagnosis as either benign or malignant.
 
 ##Technologies Used
-
 Python
 Jupyter Notebook
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
